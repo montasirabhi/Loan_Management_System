@@ -1,51 +1,51 @@
-# 💰 Loan Management System
+#  Loan Management System
 
 A full-featured **Loan Management System** built with **HTML, CSS, PHP, and MySQL**, designed for banks, microfinance organizations, and finance companies to manage users, loans, installments, and documentation efficiently.
 
 ---
 
-## 🧭 Overview
+##  Overview
 
 The **Loan Management System (LMS)** helps you automate and manage the entire loan process — from user registration to loan disbursement, payment tracking, and report generation.  
 It includes an **admin panel**, **branch management**, **user profile view**, **loan history**, and **document verification** features, all within a clean and responsive UI.
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
-### 🧑‍💼 User Management
+###  User Management
 - Add, view, edit, and delete users.  
 - Upload user profile images and personal documents.  
 - Detailed user profiles with contact, branch, and bank information.  
 - **View User Section**: Profile, Document, Nominee, and Loan tabs — all in one page.
 
-### 💵 Loan Management
+###  Loan Management
 - Add new loans for users.  
 - Track total loan amounts, installments, and due payments.  
 - Automatic calculation of interest and pending balance.  
 - Update loan status (Paid / Unpaid) with one click.
 
-### 🧾 Installment Tracking
+###  Installment Tracking
 - Record and monitor daily, weekly, or monthly payments.  
 - Real-time installment update and payment history.  
 - Filter installments by date, user, or branch.
 
-### 📄 Document Handling
+###  Document Handling
 - Secure upload and display of user documents (NID, signature, photos).  
 - Inline image preview and download options.
 
-### 📈 Admin Dashboard
+###  Admin Dashboard
 - View total users, total loans, paid/unpaid status, and installment statistics.  
 - Graphical reports and summaries.  
 - Branch-wise and date-wise data filtering.
 
-### 📋 History & Reports
+### History & Reports
 - View complete user loan and payment history.  
 - Export data or print reports directly.
 
 ---
 
-## 🖥️ Technologies Used
+## Technologies Used
 
 | Technology | Purpose |
 |-------------|----------|
@@ -61,7 +61,7 @@ It includes an **admin panel**, **branch management**, **user profile view**, **
 
 
 
-## 🧠 How It Works
+##  How It Works
 
 1. **Login to the Admin Panel**  
    Use your credentials to access the dashboard.  
@@ -83,7 +83,7 @@ It includes an **admin panel**, **branch management**, **user profile view**, **
 
 ---
 
-## 🎨 Design Highlights
+##  Design Highlights
 
 - Clean and minimal UI for ease of use.  
 - Responsive layout for desktop, tablet, and mobile.  
@@ -95,7 +95,7 @@ It includes an **admin panel**, **branch management**, **user profile view**, **
 
 
 
-## 👨‍💻 Author
+##  Author
 
 **MD Montasir Rahman Abhi**  
 _Web Developer • Graphic Designer • Digital Marketer_  
@@ -105,19 +105,13 @@ _Web Developer • Graphic Designer • Digital Marketer_
 
 ---
 
-## 🧾 License
+##  License
 
 This project is licensed under the **MIT License**.  
 You can freely use and modify it for educational or commercial purposes.
 
 ---
 
-## ⭐ Contribution
-
-Contributions, issues, and feature requests are welcome!  
-Feel free to fork this repo and submit a pull request.
-
----
 
 ## 🏁 Version
 
