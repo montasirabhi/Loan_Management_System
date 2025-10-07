@@ -4,7 +4,7 @@ This is the **View User Section** of the **Loan Management System**, where admin
 
 ---
 
-## 🚀 Features
+##  Features
 
 - **Profile Card:**  
   - Displays user's photo, name, phone, email, location, and user ID.
@@ -30,15 +30,18 @@ This is the **View User Section** of the **Loan Management System**, where admin
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - **HTML5**
 - **CSS3** (Poppins font, Flexbox & Grid)
 - **Vanilla JavaScript** (for tab switching)
 
 ---
+## Live Demo 
+<a href="https://montasirabhi.github.io/Loan_Management_System/View_Users/index.html">Click Here</a>
 
-## 📁 File Structure
+---
+##  File Structure
 ```
 loan-management-system/
 │
@@ -58,7 +61,7 @@ loan-management-system/
 
 ---
 
-## 💻 Usage Instructions
+##  Usage Instructions
 
 1. Clone or download this repository.
 2. Place user-related images/documents inside the `images` folder.
@@ -71,7 +74,7 @@ loan-management-system/
 
 ---
 
-## 🎨 Screenshots
+##  Screenshots
 
 **Profile & Tabs Section**  
 
@@ -89,7 +92,7 @@ loan-management-system/
 
 ---
 
-## 📌 Notes
+##  Notes
 
 - **Font:** Poppins (from Google Fonts)  
 - **Tabs:** Equal width for consistency  
@@ -98,15 +101,15 @@ loan-management-system/
 
 ---
 
-## 🖊 Author
+##  Author
 
 **MD Montasir Rahman Abhi**  
 - Email: montasirrahmanabhi@gmail.com  
 - Phone: +8801709105255  
-- Portfolio: <a herf="https://www.montasirabhi.com/">Click Here</a>
+- Portfolio: <a href="https://www.montasirabhi.com/">Click Here</a>
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License.  
