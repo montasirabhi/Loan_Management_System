@@ -39,7 +39,7 @@ This is the **View User Section** of the **Loan Management System**, where admin
 ---
 
 ## 📁 File Structure
-
+```
 loan-management-system/
 │
 ├── index.html # Main HTML file for View User section
@@ -54,7 +54,7 @@ loan-management-system/
 │ ├── sign.png # Signature
 │ └── nominee.png # Nominee photo
 └── README.md
-
+```
 
 ---
 
